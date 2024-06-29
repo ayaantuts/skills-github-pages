@@ -1,5 +1,5 @@
 ---
-title: What's up everone!
+title: What's up everyone!
 ---
 - This is my first GitHub Pages experience
 - It is awesome!!!!
